@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: mlprojectt
+Version: 0.0.1
+Author: Priyal
+Author-email: priyalchugh06@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
